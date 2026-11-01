@@ -7,19 +7,6 @@ Key Features
 - **Multiple Training Ratios**: Supports 40%, 50%, 60% training configurations
 
 ---
-
-## 📊 Performance Highlights
-
-| Metric | TSD-Net | TCN | PINN | HDLBDQ |
-|--------|---------|-----|------|---------|
-| **MAE** | 0.00464 | 0.00531 | 0.00714 | 0.00727 |
-| **RMSE** | 0.00567 | 0.00772 | 0.01934 | 0.01241 |
-| **R²** | 0.97981 | 0.92918 | 0.85079 | 0.89532 |
-
-- **50% Win Rate** on RMSE (best robustness)
-- **58.3% Win Rate** on R² (best trend fitting)
-- **RMSE/MAE Ratio: 1.22** (lowest error variance)
-
 ---
 
 ## 🚀 Quick Start
